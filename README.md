@@ -35,13 +35,10 @@ Step 1:
 
 Create ASP.NET Core Web Application using Visual Studio 2015
 
-vs2
 
 Steps 2:
 
 Right Click on the Web Application we just created and Add – Docker Support. Upon adding Docker support, Visual Studio Tooling automatically creates various Docker files for you to use.
-
-dock
 
 Step 3:
 

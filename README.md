@@ -103,5 +103,3 @@ ENTRYPOINT dotnet WebApplication2.dll
 Step 4 :
 
 All you need now is to run your Visual Studio Application and you are up and running with your ASP.NET Core application running on a Docker container. We can take a look at the running container using the “docker ps -a” command.
-
-In the next follow up blog post, we will explore How to deploy applications on Docker on Windows using Windows Server 2016 TP5
